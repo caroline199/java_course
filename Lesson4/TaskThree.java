@@ -7,7 +7,7 @@ public class TaskThree {
         int n2;
         System.out.println(n0 + "\n" + n1);
         int i = 3;
-        while (i <= 10){
+        while(i <= 10){
             n2 = n0 + n1;
             System.out.println(n2 + " ");
             n0 = n1;
